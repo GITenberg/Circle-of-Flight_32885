@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35596
 description: Thorus, the vengeful, had determined his way. Aria, the healer, had determined
   her way. Which determined this classic meeting of the twain.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32885#Circle-of-Flight
 gutenberg_issued: '2010-06-18'
 gutenberg_type: Text
 identifiers:
