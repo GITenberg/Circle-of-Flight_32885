@@ -1,0 +1,26 @@
+_repo: Circle-of-Flight_32885
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stockham, Richard
+    gutenberg_agent_id: '35596'
+    url: http://www.gutenberg.org/2009/agents/35596
+description: Thorus, the vengeful, had determined his way. Aria, the healer, had determined
+  her way. Which determined this classic meeting of the twain.
+gutenberg_issued: '2010-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32885'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+title: Circle of Flight
+url: http://www.gutenberg.org/ebooks/32885
